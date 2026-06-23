@@ -15,4 +15,4 @@
 
 - RISC-V GNU Compiler Toolchain：用于将你写的 C 语言测试程序交叉编译成 RISC-V 的汇编和机器码。
 
-- Xilinx Vivad: 集成开发环境
+- Xilinx Vivado: 集成开发环境
